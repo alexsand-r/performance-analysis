@@ -1,6 +1,8 @@
 Task 1 Write a program that analyzes the list of student grades and finds the average score, and will find the lowest grade.
 
-Procedures for graduation: 1. Create an array for saving student grades: - Grades can be represented as integers from 0 to 100. 2. Create a function for calculating the average score: - The function must accept an array of scores But as an argument, rotate the average value.
+Procedures for graduation:
+1. Create an array for saving student grades: - Grades can be represented as integers from 0 to 100.
+2.  2. Create a function for calculating the average score: - The function must accept an array of scores But as an argument, rotate the average value.
 
 3. Create a function to find the highest rating: - The function must take an array of ratings as an argument and rotate the highest rating.
 
